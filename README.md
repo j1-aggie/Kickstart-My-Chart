@@ -129,9 +129,9 @@ Always up for the additional challenge, I evaluated the number of backers of suc
   * The standard deviation of the number of backers.
 
 * Used my data to determine whether the mean or the median summarizes the data more meaningfully.
-*	I would say, for the successful data set, the median summarizes the data more meaningfully due to the huge difference from the lowest to the highest successful counts which are skewing the data.  For the failed data set it is not an issue since both results are so close in value. 
+ *	I would say, for the successful data set, the median summarizes the data more meaningfully due to the huge difference from the lowest to the highest successful counts which are skewing the data.  For the failed data set it is not an issue since both results are so close in value. 
 
 * Used my data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
-*	It appears that there is more variability with the successful campaign versus the failed campaigns.  Based on the data set this makes sense due to the fact that there is a huge difference from the mean versus the high of the data for the successful campaigns versus the failed campaigns. 
+ *	It appears that there is more variability with the successful campaign versus the failed campaigns.  Based on the data set this makes sense due to the fact that there is a huge difference from the mean versus the high of the data for the successful campaigns versus the failed campaigns. 
 
 
