@@ -28,11 +28,11 @@ Using the Excel table provided, I modified and analyzed the data of 4,000 past K
 
   * Created two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
-  ![Category Stats](Images/CategoryStats.PNG)
+  <img width="1011" alt="CategoryStats" src="https://user-images.githubusercontent.com/66078772/101654991-bbce3400-3a06-11eb-994c-697279830624.PNG">
 
-  * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
+  * Created a new sheet with a pivot table that analyzed my initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
-  * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
+  * Created a stacked column pivot chart that can be filtered by country based on the table I created.
 
   ![Subcategory Stats](Images/SubcategoryStats.PNG)
 
