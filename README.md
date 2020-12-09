@@ -86,25 +86,25 @@ Using the Excel table provided, I modified and analyzed the data of 4,000 past K
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
+  ![GoalOutcomes](https://user-images.githubusercontent.com/66078772/101655908-c210e000-3a07-11eb-83b3-f3f19f657690.PNG)
 
-* Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
+* Used the `COUNTIFS()` formula, to count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
-* Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
+* Added up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, used a mathematical formula, foound the percentage of projects that were successful, failed, or canceled per goal range.
 
-* Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+* Created a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
 ## Bonus Statistical Analysis
 
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
 
-For those looking for an additional challenge, you will evaluate the number of backers of successful and unsuccessful campaigns by creating **your own** summary statistics table.
+Always up for the additional challenge, I evaluated the number of backers of successful and unsuccessful campaigns by creating **my own** summary statistics table.
 
-* Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
+* Created a new worksheet in my workbook, and created a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 
   ![Images/backers01.png](Images/backers01.png)
 
-* Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
+* Used Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
 
   * The mean number of backers.
 
@@ -118,14 +118,8 @@ For those looking for an additional challenge, you will evaluate the number of b
 
   * The standard deviation of the number of backers.
 
-* Use your data to determine whether the mean or the median summarizes the data more meaningfully.
+* Used my data to determine whether the mean or the median summarizes the data more meaningfully.
 
-* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+* Used my data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-## Submission
 
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
-
-- - -
-
-© 2019 Trilogy Education Services
