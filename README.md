@@ -46,13 +46,13 @@ Using the Excel table provided, I modified and analyzed the data of 4,000 past K
 
   * Created a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
 
-  ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
+ <img width="973" alt="LaunchDateOutcomes" src="https://user-images.githubusercontent.com/66078772/101655675-79f1bd80-3a07-11eb-9c99-cb5475868ec9.PNG">
 
-  * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
+  * Created a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
 
-  * Now create a pivot chart line graph that visualizes this new table.
+  * Then created a pivot chart line graph that visualizes this new table.
 
-* Create a report in Microsoft Word and answer the following questions.
+* Created a report in Microsoft Word and answered the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
@@ -60,7 +60,7 @@ Using the Excel table provided, I modified and analyzed the data of 4,000 past K
 
 ## Bonus
 
-* Create a new sheet with 8 columns:
+* Created a new sheet with 8 columns:
 
   * `Goal`
   * `Number Successful`
@@ -71,7 +71,7 @@ Using the Excel table provided, I modified and analyzed the data of 4,000 past K
   * `Percentage Failed`
   * `Percentage Canceled`
 
-* In the `Goal` column, create 12 rows with the following headers:
+* In the `Goal` column, created 12 rows with the following headers:
 
   * Less than 1000
   * 1000 to 4999
