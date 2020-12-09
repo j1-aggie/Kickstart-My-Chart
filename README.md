@@ -34,17 +34,17 @@ Using the Excel table provided, I modified and analyzed the data of 4,000 past K
 
   * Created a stacked column pivot chart that can be filtered by country based on the table I created.
 
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
+  <img width="807" alt="SubcategoryStats" src="https://user-images.githubusercontent.com/66078772/101655309-15cef980-3a07-11eb-98b6-6ca3b34dcfe6.PNG">
 
-  * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
+  * Created a new sheet with a pivot table that analyzed my initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
-  * Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
+  * Created a stacked column pivot chart that can be filtered by country and parent-category based on the table I created.
 
-* The dates stored within the `deadline` and `launched_at` columns use Unix timestamps. Fortunately for us, [there is a formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) that can be used to convert these timestamps to a normal date.
+* The dates stored within the `deadline` and `launched_at` columns use Unix timestamps. Fortunately, [there is a formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) that can be used to convert these timestamps to a normal date.
 
-  * Create a new column named `Date Created Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `launched_at` into Excel's date format.
+  * Created a new column named `Date Created Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `launched_at` into Excel's date format.
 
-  * Create a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
+  * Created a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
 
   ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
 
