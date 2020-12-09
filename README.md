@@ -55,8 +55,18 @@ Using the Excel table provided, I modified and analyzed the data of 4,000 past K
 * Created a report in Microsoft Word and answered the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+*	The data provided shows that the Music and Theater campaigns have the highest successful rates with a 77 and 60 percent success rate.  Conversely, the Food and Games campaigns have the highest failure rate.  Overall, the data shows a 53 percent success rate and a 37 percent failure rate from all the Kickstarter Campaigns. 
+*	The subcategory “Plays” was the most successful out of the “Theater” category due to the amount of successful campaigns within the total attempts in that subcategory.  However, the “Plays” subcategory also had the most total attempts out of all three subcategories.  For example, “Plays” had 1066 total attempts with 694 successful campaigns and the other two subcategories totaled 327 campaign attempts between the two campaigns. Comparatively, in the “Music” category, “Indie Rock” and “Rock” subcategories had the highest total attempts of campaigns and the highest percentage of success rate.   
+*	Using yearly data for the most successful campaigns, besides a slight up tick in the months of May and June, campaign success rate appears to decline as the year progresses. 
+
 2. What are some limitations of this dataset?
+*	In the data set provided, there is not a column that tells you how much time is allotted to reach each campaign goal.  I see the start and stop dates of the campaigns but what I think be interesting is, was there a standard time length to meet your set goal.  If each campaign is judged with a different time scale, then the data set is not comparing apples to apples in that respect.  For example, if your goal were to raise 500 versus another campaigns goal was to raise 50,000 and you had 2 weeks to reach that goal, of course the goal of 500 is easier to reach in that time frame. 
+*	I think the data should also digger deeper into location of the campaigns.  I think if you could compare data points such as demographics and economics of certain areas within the country it might give a better understanding why certain subcategories of theater and music campaigns were more successful than others, for example.  
+
 3. What are some other possible tables and/or graphs that we could create?
+*	I think that we could create a pivot table that shows average donation versus state results and then have a graph to maybe show a correlation between average donation versus results of campaign goals. 
+*	Additionally, we could add the data that shows the time that it took the campaign to reach its initial goal based on Category to then plot to see if certain campaigns meet their goals quicker.  Even more, add in the demographics and economic data and plot together and show if there is a correlation with these factors. 
+
 
 ## Bonus
 
@@ -119,7 +129,9 @@ Always up for the additional challenge, I evaluated the number of backers of suc
   * The standard deviation of the number of backers.
 
 * Used my data to determine whether the mean or the median summarizes the data more meaningfully.
+*	I would say, for the successful data set, the median summarizes the data more meaningfully due to the huge difference from the lowest to the highest successful counts which are skewing the data.  For the failed data set it is not an issue since both results are so close in value. 
 
 * Used my data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+*	It appears that there is more variability with the successful campaign versus the failed campaigns.  Based on the data set this makes sense due to the fact that there is a huge difference from the mean versus the high of the data for the successful campaigns versus the failed campaigns. 
 
 
